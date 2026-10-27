@@ -1,0 +1,7 @@
+body{font-family:system-ui,sans-serif;max-width:900px;margin:2rem auto;padding:0 1rem;color:#222}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:.5rem;border-bottom:1px solid #ddd}
+form.campo label{display:block;margin:.7rem 0 .2rem}input,select,textarea{width:100%;padding:.4rem;box-sizing:border-box}
+.erro{background:#fee;border:1px solid #c33;padding:.5rem 1rem;margin:1rem 0}
+.btn{display:inline-block;padding:.4rem .9rem;background:#246;color:#fff;border:0;text-decoration:none;cursor:pointer;width:auto}
+.perigo{background:#a22}.estrelas{color:#c90}img.capa{max-width:180px;float:right;margin-left:1rem}
+.busca{display:flex;gap:.5rem;margin:1rem 0}
